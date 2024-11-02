@@ -1,0 +1,20 @@
+.titulos h1{
+	color: darkblue;
+}
+p {
+	font-family: Times New Roman;
+	font-size: 10px;
+}
+.barra-lateral{
+	background-color: rgb(128,0,255);
+	background-color: blueviolet;
+	padding: 35px;
+}
+.emphasis{
+
+}
+.btn{
+box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+cursor: pointer;
+border: 1px solid blue;
+}
